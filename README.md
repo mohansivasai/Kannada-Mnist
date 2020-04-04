@@ -1,0 +1,2 @@
+# Kannada-Mnist
+Kaggle -KanadaMNIST 
